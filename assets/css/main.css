@@ -4912,7 +4912,7 @@ input, select, textarea {
 				width: 80%;
 				height: auto;
 				border-radius: 100%;
-				/*transform: translate(-50%, -50%);*/
+				transform: translate(-50%, -50%);
 				background: none;
 			}
 
