@@ -4893,7 +4893,7 @@ input, select, textarea {
 			border-radius: 0;
 			background: none;
 			border-radius: 50%; /* Set the border-radius to 50% for a circular shape */
-   			/*overflow: ;*/
+   			overflow: hidden;
 		}
 
 			.spotlight.style1 .image img {
