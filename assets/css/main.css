@@ -4952,11 +4952,6 @@ input, select, textarea {
 			.spotlight.style1 .content {
 				padding: 2.5rem 2rem 0.5rem 2rem ;
 			}
-			
-			.spotlight.style1 .image {
-				width: 50%;
-				min-width: 0;
-			}
 		}
 
 	@media screen and (max-width: 736px) and (orientation: portrait) {
@@ -4978,7 +4973,8 @@ input, select, textarea {
 			}
 
 				.spotlight.style1 .image img {
-					position: relative;
+/* 					position: relative; */
+					object-fit: cover;
 				}
 
 	}
