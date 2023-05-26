@@ -4888,12 +4888,13 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			width: 10%;
+			width: 100%;
+			height: auto;
 			min-width: 25rem;
 			border-radius: 0;
 			background: none;
 			border-radius: 50%; /* Set the border-radius to 50% for a circular shape */
-   			overflow: visible;
+   			/*overflow: ;*/
 		}
 
 			.spotlight.style1 .image img {
