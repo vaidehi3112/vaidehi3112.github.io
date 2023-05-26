@@ -4888,8 +4888,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			width: 100%;
-			height: auto;
+			width: 10%;
 			min-width: 25rem;
 			border-radius: 0;
 			background: none;
@@ -4913,7 +4912,7 @@ input, select, textarea {
 				width: 80%;
 				height: auto;
 				border-radius: 100%;
-				transform: translate(-50%, -50%);
+				/*transform: translate(-50%, -50%);*/
 				background: none;
 			}
 
